@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "533c2554a53deeaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "db65b2c42e9a6168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7ec2aa3c254f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java并发/理论/并发编程的Bug源头.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4203cc7ebe58397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java并发/理论/并发编程的Bug源头.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4189d049c3cc1296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java并发/理论/互斥锁.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4dffa0e4aa7797d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java并发/理论/并发编程的Bug源头.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7a531c9e28ae435",
+    "type": "split",
+    "children": [
+      {
+        "id": "1980185030067d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f01332662fb565c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7d4a431e8661197",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12628c95b3429ee8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58841328300730cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "074691e3a7a60fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99f52f223cd4ffc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java并发/理论/互斥锁.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "794a31d67bbee37f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java并发/理论/互斥锁.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf2cf73a05b9c4c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "375cdc0c373790a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java并发/理论/互斥锁.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f01332662fb565c8",
+  "lastOpenFiles": [
+    "README.md",
+    "Java并发/理论/并发编程的Bug源头.md",
+    "Java并发/理论/互斥锁.md",
+    "Java并发/理论/死锁发生以及破坏条件.md",
+    "Java并发/理论/锁.md",
+    "Java并发/理论/Java内存模型.md",
+    "Java并发/理论/Pasted image 20231204145128.png",
+    "Java并发/理论/Pasted image 20231130102650.png",
+    "Java并发/理论/Singletion.class加锁.md",
+    "Java并发/理论",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "2023-11-30.md",
+    "Android framwork",
+    "计算机组成原理",
+    "数据结构与算法",
+    "前端",
+    "设计模式",
+    "Flutter",
+    "kotlin",
+    "Java并发"
+  ]
+}
